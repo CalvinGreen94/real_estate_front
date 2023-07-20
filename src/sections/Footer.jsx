@@ -170,6 +170,8 @@ const Footer = () => {
             </a>
           </li> */}
         </ul>
+        Welcome To LaShunda Realty, A real estate agent based in Virginia. I have been in the business for over 3 years and have helped countless people find their dream homes. I truly believe that a home is more than just a building – it's a place to create memories, to be comfortable, and to express yourself. I have a passion for understanding the needs of my clients and helping them to find the perfect home that meets all of their needs. 
+      <br /><br />
         <Bottom>
           <h3
             data-scroll

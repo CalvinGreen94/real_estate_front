@@ -144,7 +144,8 @@ const About = () => {
         With LaShunda, you too can find your dream home.
       </Title> */}
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
-      With LaShunda, you too can find your dream home.
+      I understand that buying or selling a home can be a stressful process, so I always strive to make the experience as comfortable and enjoyable as possible. I take pride in providing my clients with the highest level of service and dedication. When it comes to finding a home, I believe that architecture, design, comfort, and passion should all be taken into account. I love to be able to guide clients through the process of finding the perfect home that is a reflection of their lifestyle and personality. If you're looking for an experienced real estate agent who can help you find the perfect home, I'm here for you. Feel free to reach out to me anytime with questions or to start the process of finding your dream home.
+
       </Left>
 
       <Right>
