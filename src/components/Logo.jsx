@@ -97,6 +97,10 @@ const Logo = () => {
         <Text variants={textVariants} initial="hidden" animate="visible">
           LaShunda Realty
         </Text>
+        <br />
+        <Text variants={textVariants} initial="hidden" animate="visible">
+          **Mobile Platform Coming Soon**
+        </Text>    
       </Link>
     </Container>
   );
