@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
 import React from 'react';
 import styled from 'styled-components';
-import img2 from "../assets/Images/1.webp";
 
 const Container = styled(motion.div)`
   position: absolute;
