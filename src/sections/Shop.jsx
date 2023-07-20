@@ -202,9 +202,10 @@ const Shop = () => {
       </Title>
       <Left>
       <p>
-          A few homes LaShunda Realty has listed for available purchase
-          <br /> <br />
-          Inspired through various forms of architecture, design, and the love of bringing peace to personal space.
+      As a real estate agent, I have a total of 10 houses for sale on my website. Each house is located in a different area, offering a wide range of options for potential buyers. From cozy bungalows to sprawling mansions, I have something for everyone.
+        <br />
+        <br />
+        All my listings have detailed information about the property, including photos of the interior and exterior, as well as neighborhood amenities. I make sure to provide all the necessary information to help buyers make an informed decision. With my expertise and guidance, I am sure that you will find the perfect home to fit your needs.
         </p>
       </Left>
       <Right data-scroll ref={Horizontalref}>
