@@ -115,6 +115,8 @@ const Loader = () => {
       <Text variants={textVariants} initial="hidden" animate="visible">
         Welcome To LaShunda Realty
       </Text>
+      <br/>
+      <Text variants={textVariants} initial="hidden" animate="visible"> **Mobile Platform Coming Soon**</Text>
       <img
         width="1000"
         height="600"
