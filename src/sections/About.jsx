@@ -150,7 +150,7 @@ const About = () => {
 
       <Right>
         <img width="400" height="600" src={img1} alt="About Us" />
-        <img
+        {/* <img
           width="400"
           height="600"
           className="small-img-1"
@@ -158,7 +158,7 @@ const About = () => {
           alt="About Us"
           data-scroll
           data-scroll-speed="5"
-        />
+        /> */}
         <img
           width="400"
           height="600"
