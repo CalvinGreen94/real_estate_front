@@ -229,13 +229,7 @@ let t1= gsap.timeline();
       </Container>
 
       <Text data-scroll data-scroll-speed="-4">
-        Helping you meet your new home.
-        <br />
-        <br />
-        Single or Family, LaShunda Realty is here to help you find a comfortable, safe, family friendly environment.
-        <br />
-        <br />
-        Thank you!
+      At LaShunda Realty, we are committed to helping you find the perfect fit for your new home, whether you are looking for a single residence or a family home. We strive to provide a comfortable, safe, and family-friendly environment that meets your needs. Thank you for choosing LaShunda Realty!
       </Text>
     </Section>
   );
