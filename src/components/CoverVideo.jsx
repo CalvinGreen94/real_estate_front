@@ -102,6 +102,16 @@ const CoverVideo = () => {
 
       <Title variants={container} initial="hidden" animate="show">
         <div>
+        <motion.h2
+          style={{ alignSelf: "flex-end" }}
+          variants={item}
+          data-scroll
+          data-scroll-delay="0.04"
+          data-scroll-speed="2"
+        >
+          We
+        </motion.h2>
+          <br />
           <motion.h1
             variants={item}
             data-scroll
@@ -142,6 +152,15 @@ const CoverVideo = () => {
           >
             M
           </motion.h1>
+          <motion.h2
+          style={{ alignSelf: "flex-end" }}
+          variants={item}
+          data-scroll
+          data-scroll-delay="0.04"
+          data-scroll-speed="2"
+        >
+          With You
+        </motion.h2>
         </div>
         <motion.h2
           style={{ alignSelf: "flex-end" }}
